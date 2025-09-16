@@ -2,7 +2,7 @@
 ## A simple Adventure game, with basic mechanics.
 
 This test game allows you to start quests in the world of Precedural.\
-So When you first run the 'main.py' file, you will be prompted to enter a name for your character, and a selection of classes to choose from.\
+So When you first run the 'main.py' file, you will be prompted to enter a name for your character, and a selection of classes to choose from.
 ### the main starting choices at first will be:
 
 - Start a quest = starts a random procedural quest
