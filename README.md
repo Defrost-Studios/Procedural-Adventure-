@@ -10,7 +10,7 @@ So When you first run the 'main.py' file, you will be prompted to enter a name f
 - Exit Game = self explanatory
 
 ### combat system
-during combat, you will get four initial choices:\
+during combat, you will get four initial choices:
 - Attack = lets you pick from 3 different abilities to attack your opponent
 - use item = lets you view your inventory(useless ATM)
 - Run = lets you escape from your enemy, UNLESS its a Boss
